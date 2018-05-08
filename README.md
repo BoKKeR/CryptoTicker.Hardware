@@ -7,7 +7,7 @@ The device can be extendable to support up to 8 displays or with extra multiplex
 # Is [coin] supported?
 Full list of supported coins can be found at: https://coinmarketcap.com/all/views/all/
 # Where is the software?
-The software is avalaible on the second repository:
+The software is avalaible on the second repository: https://github.com/BoKKeR/CryptoTicker.Software/
 # What is missing
 There will be an aditional board that will be powering the CryptoTicker pcb and serving as the USB to serial converter for the EPS32. There are smaller problems with this design. The files will be updated soon. 
 # Schematics
